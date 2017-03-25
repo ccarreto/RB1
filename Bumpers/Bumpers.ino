@@ -1,4 +1,7 @@
 /**
+ * RB1 - Kit Didático de Robótica
+ * http://www.academiaderobotica.ipg.pt/doku.php?id=rb1_docs
+ * 
  * Este programa testa o funcionamento dos dois bumpers do robô.
  * O cabo USB deve estar ligado e o monitor série aberto para 
  * se poderem ver as mensagens que indicam quando os bumpers são premidos.
